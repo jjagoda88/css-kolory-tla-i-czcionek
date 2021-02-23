@@ -1,0 +1,42 @@
+body {
+    background-color: antiquewhite;
+}
+
+h2 {
+    background-color: aqua;
+}
+
+.paragraph1 {
+    background-color: bisque;
+}
+
+h3 {
+    background-color: burlywood;
+}
+
+.paragraph2 {
+    background-color: darkcyan;
+}
+ol {
+    background-color: darksalmon;
+}
+
+.item1 {
+    color: darkslateblue;
+}
+
+.item2 {
+    color: deeppink;
+}
+
+.item3 {
+    color: gold;
+}
+
+.item4 {
+    color: greenyellow;
+}
+
+.item5 {
+    color: hotpink;
+}
